@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AML_Survival.aternos.me:38893",
+    "ip": "AML_Survival.aternos.me",
     "port": 38893,
     "version": "",
     "try-creative": false
